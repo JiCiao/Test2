@@ -1,0 +1,32 @@
+iOS:
+1. Internet, POST and GET
+2. FileManager: App root path, write file, read file
+3. thread and GCD
+4. timer
+5. Camera
+6. Custom views: TableView, ..., etc
+7. Multiple country language: in code, storyboard, xib
+8. notification
+9. push notification
+10. AlertDialog, AlertController
+11. JSON parser
+12. AFNetworking
+13. block
+
+Android:
+1. Internet: Volley
+2. FileManager: get App root(sim or storage) read file, write file
+3. thread, handler, asyncTask
+4. timer, timerTask
+5. Camera
+6. Custom views: listView
+7. multiple country language
+8. notification
+9. pending intent
+10. push notification
+11. alertDialog
+12. JSON parser
+13. ActionBar(ToolBar)
+
+Advanced Android:
+1. youtube api
